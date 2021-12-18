@@ -1,0 +1,22 @@
+5
+D OR E
+-E OR -J
+-A OR D OR -I
+I
+-A OR E
+8
+E
+-E
+D OR -I
+D OR -J
+-A OR -J
+-A OR D OR -J
+-A OR -I
+-A OR D
+5
+{}
+-I
+D
+-A
+-J
+YES
